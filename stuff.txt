@@ -2,4 +2,6 @@ This is a new file with stuff inside.
 
 I'm testing the code commit path for one commit relying on the previous commit.
 
-This is the first commit.  The next commit will depend on this.
+This is the first commit.  The next commit will depend on this.  Now I'm adding phase 2.
+
+This is part of phase 2.
