@@ -4,4 +4,6 @@ I have a few lines to test.
 
 This is a neat line.
 
+Adding this line now.
+
 I'm adding a new line for this commit.
