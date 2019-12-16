@@ -9,3 +9,7 @@ This is a neat line.
 Adding this line now.
 
 I'm adding a new line for this commit.
+
+Testing out the cherry-pick path.  Will this work?
+
+I did the cherry-pick and now I'm adding to that push.
