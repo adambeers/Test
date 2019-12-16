@@ -1,0 +1,3 @@
+This is a new file with stuff inside.
+
+I'm testing the code commit path for one commit relying on the previous commit.
