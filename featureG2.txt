@@ -1,0 +1,5 @@
+void functionG2()
+{
+    This code calls the function code
+    function();
+}
