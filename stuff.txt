@@ -1,0 +1,19 @@
+This is a new file with stuff inside.
+
+I'm testing the code commit path for one commit relying on the previous commit.
+
+This is the first commit.  The next commit will depend on this.  Now I'm adding phase 2.
+
+This is part of phase 2.
+
+This is for PRZO-9.
+
+Also for PRZO-9.
+
+This is for PRZO-10.
+
+This is for PRZO-11 - something.
+
+This is for PRZO-12.
+
+This is for PRZO-13
