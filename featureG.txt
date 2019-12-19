@@ -4,4 +4,5 @@ void function1()
     This is great!
     Forgot this line.
     Messed up again.  Need this perfect piece of code.
+    I made another error.  This should fix it.
 }
